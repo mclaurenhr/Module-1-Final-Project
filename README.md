@@ -1,6 +1,6 @@
 # Mircosoft Movie Studio
 
-<img src='images/BlackPanther596d2f04d1540_2040.jpg'/>
+<img src= 'Images/BlackPanther596d2f04d1540_2040.jpg'/>
 
 ## Introduction
 Mircosoft wants to start a movie studio and they need some analysis conducted to determine what the best business strategy is for them to start this venture. They want more insight about the film industry and what type of movies are the most profitable. 
@@ -28,28 +28,28 @@ We decided to do an in-depth analysis on the sales trends of the movie industry 
 We wanted take a deeper dive into exactly what the top movie genres were along with some additional sub questions to help with our analysis. A preview of the tables and visuals of the findings are attached below.
 
 #### Tables Preview 
-<img src= 'images/Total Genre Table.png'/>
+<img src= 'Images/Total Genre Table.png'/>
 
 #### EDA 
-<img src= 'images/Genre count.png'/>
+<img src= 'Images/Genre count.png'/>
 
 
 
 : Is there a correlation between release month and higher profitability in that genre?
 
 #### Tables Preview 
-<img src= 'images/Highest Month.png'/>
+<img src= 'Images/Highest Month.png'/>
 
 #### EDA
-<img src= 'images/release month correlation.png'/>
+<img src= 'Images/release month correlation.png'/>
 
 #### Sub-Question: Is there a correlation between production budget and net profits in the that genre?
 
 #### Tables Preview
-<img src= 'images/Highest Net Month Table.png'/>
-<img src= 'images/Domestic Net Mean Table.png'/>
+<img src= 'Images/Highest Net Month Table.png'/>
+<img src= 'Images/Domestic Net Mean Table.png'/>
 
-<img src= 'images/hexin graph.png'/>
+<img src= 'Images/hexin graph.png'/>
 
 </details>
 
@@ -57,49 +57,49 @@ We wanted take a deeper dive into exactly what the top movie genres were along w
 </summary>
 
 #### EDA
-<img src= 'images/Release-Domestic Net.png'/>
-<img src= 'images/Popularity and Day.png'/>
-<img src= 'images/Net vs. Month.png'/>
-<img src= 'images/month and popularity.png'/>
+<img src= 'Images/Release-Domestic Net.png'/>
+<img src= 'Images/Popularity and Day.png'/>
+<img src= 'Images/Net vs. Month.png'/>
+<img src= 'Images/month and popularity.png'/>
 
 
 
 #### Sub-Question: Is there a correlation between runtime, budget, and season released?
 
 #### Tables Preview 
-<img src= 'images/Runtime vs. Domestic Gross Graph.png'/>
+<img src= 'Images/Runtime vs. Domestic Gross Graph.png'/>
 
 #### EDA
-<img src= 'images/Runtime vs. Domestic Gross Table.png'/>
-<img src= 'images/Runtime 100.png'/>
+<img src= 'Images/Runtime vs. Domestic Gross Table.png'/>
+<img src= 'Images/Runtime 100.png'/>
 
 #### Sub Question: Is there a relationship of run time of movies vs domestic gross, popularity and production budget?
 
 #### Tables Preview
-<img src= 'images/Heatmap Table.png'/>
+<img src= 'Images/Heatmap Table.png'/>
 
 #### EDA
-<img src= 'images/Heatmap.png'/>
+<img src= 'Images/Heatmap.png'/>
 </details>
 
 <details><summary style="font-size: 22px"> Question 3: Can the film industry be a consistent profit center?</summary>
 
 
 #### Table Preview
-<img src= 'images/Table 1.png'/>
+<img src= 'Images/Table 1.png'/>
 
 #### EDA
-<img src= 'images/Num of Movies Graph.png'/>
-<img src= 'images/Per movie data.png'/>
-<img src= 'images/Ticket Sales Graph.png'/>
-<img src= 'images/Production Budget.png'/>
-<img src= 'images/ROI.png'/>
-<img src= 'images/Profit Per Movie.png'/>
-<img src= 'images/Correlation Matrix.png'/>
-<img src= 'images/Net Profit Graph.png'/>
-<img src= 'images/DD Net Profit.png'/>
-<img src= 'images/DD Median ROI.png'/>
-<img src= 'images/DD Median Domestic.png'/>
+<img src= 'Images/Num of Movies Graph.png'/>
+<img src= 'Images/Per movie data.png'/>
+<img src= 'Images/Ticket Sales Graph.png'/>
+<img src= 'Images/Production Budget.png'/>
+<img src= 'Images/ROI.png'/>
+<img src= 'Images/Profit Per Movie.png'/>
+<img src= 'Images/Correlation Matrix.png'/>
+<img src= 'Images/Net Profit Graph.png'/>
+<img src= 'Images/DD Net Profit.png'/>
+<img src= 'Images/DD Median ROI.png'/>
+<img src= 'Images/DD Median Domestic.png'/>
 
 
 
